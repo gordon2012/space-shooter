@@ -13,5 +13,4 @@ public class Mover : MonoBehaviour {
 
 		rb.velocity = transform.forward * speed;
 	}
-	
 }
