@@ -5,4 +5,4 @@
 ## A Unity3D Tutorial
 
 * Tutorial: [https://unity3d.com/learn/tutorials/projects/space-shooter-tutorial](https://unity3d.com/learn/tutorials/projects/space-shooter-tutorial)
-* Live: [http://gordondoskas.com/spaceshooter/](http://gordondoskas.com/spaceshooter/)
+* Live: [https://gordondoskas.itch.io/space-shooter](https://gordondoskas.itch.io/space-shooter)
